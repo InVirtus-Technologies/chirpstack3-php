@@ -1,0 +1,6 @@
+[submodule "chirpstack"]
+	path = chirpstack
+	url = https://github.com/brocaar/chirpstack-api.git
+[submodule "googleapis"]
+	path = googleapis
+	url = https://github.com/googleapis/googleapis.git

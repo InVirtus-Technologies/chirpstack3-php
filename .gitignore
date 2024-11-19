@@ -1,2 +1,5 @@
-/generated
 /.idea
+composer.lock
+/vendor
+/googleapis
+/chirpstack
