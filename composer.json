@@ -1,5 +1,5 @@
 {
-  "name": "invirtus/chirpstack3-api",
+  "name": "chirpstack/chirpstack3-api",
   "description": "Chirpstack 3 PHP API",
   "license": "MIT",
   "type": "library",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Chirpstack\\": "generated/"
+      "Chirpstack\\": "generated/Chirpstack/"
     }
   }
 }
