@@ -1,5 +1,5 @@
 {
-  "name": "chirpstack/chirpstack3-api",
+  "name": "invirtus/chirpstack3-api",
   "description": "Chirpstack 3 PHP API",
   "license": "MIT",
   "type": "library",
