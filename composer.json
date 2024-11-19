@@ -1,9 +1,9 @@
 {
-  "name": "chirpstack/chirpstack-api",
-  "description": "Chirpstack PHP API",
+  "name": "chirpstack/chirpstack3-api",
+  "description": "Chirpstack 3 PHP API",
   "license": "MIT",
   "type": "library",
-  "version": "4.9.0-test.3",
+  "version": "1.0.0",
   "require": {
     "php": ">=7.0.0",
     "grpc/grpc": "^v1.57.0",
